@@ -2,6 +2,7 @@ theme: jekyll-theme-slate
 # Site settings
 title: 21年中国创新方法大赛比赛总结                     #你博客的标题
 SEOTitle: 21年中国创新方法大赛比赛总结       #显示在浏览器上搜索的时候显示的标题
+post_asset_folder: true
 header-img: 333.png    #显示在首页的背景图片
 email: k359579923@gmail.com   
 description: ""              #网站介绍
